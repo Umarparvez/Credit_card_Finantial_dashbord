@@ -4,8 +4,8 @@ An interactive Power BI dashboard analyzing credit card transactions, customer b
 
 ---
 
-##  Project Overview
-This project focuses on analyzing credit card data to identify spending patterns, customer segments, and transaction trends. The dashboard helps in making data-driven business decisions.
+##  Project Objective
+To analyze credit card transaction data and identify key customer segments, spending behavior, and revenue drivers to support business decision-making.
 
 ---
 
@@ -25,10 +25,11 @@ This project focuses on analyzing credit card data to identify spending patterns
 ---
 
 ##  Key Insights
-- Identified high-value customers  
-- Analyzed spending patterns across categories  
-- Compared transaction volume vs revenue  
-- Detected trends over time  
+- Customers aged 40–50 contribute the highest revenue
+- High-income customers generate maximum spending
+- Bills and entertainment are the top spending categories
+- States like TX, CA, and NY drive the majority of revenue
+- Non-loan customers show higher transaction volume
 
 ---
 
